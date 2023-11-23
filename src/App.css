@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #decece;
+}
+ul {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+}
+li {
+  border: none;
+  list-style: none;
+  font-size: 18px;
+}
+.img{
+  width: 100%;
+
+}
+.img img {
+  width: 100%;
+  
+}
